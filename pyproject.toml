@@ -1,0 +1,19 @@
+[project]
+name = "simulation_integral_equations"
+version = "0.1.0"
+description = "Script to replicate the simulation in the paper On the asymptotic validity of confidence sets for linear functionals of solutions to integral equations"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "statsmodels",
+    "tqdm",
+    "ipykernel",
+    "matplotlib",
+    "tqdm",
+    "seaborn",
+    "pytest>=8.3.5",
+    "plotnine>=0.14.5",
+]
