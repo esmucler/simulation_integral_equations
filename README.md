@@ -6,7 +6,7 @@ This repository contains scripts to replicate the simulations described in the p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simulation_integral_equations.git
+   git clone https://github.com/esmucler/simulation_integral_equations.git
    cd simulation_integral_equations
    ```
 
